@@ -1,0 +1,24 @@
+.tag_button {
+  font-weight: 500;
+  font-size: 14px;
+  border-radius: 17px;
+  border: 1px #f3aa4e solid;
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  height: 35px;
+  cursor: pointer;
+  outline: none;
+  margin-right: 10px;
+}
+
+.active_button {
+  background-color: #f3aa4e;
+  color: #ffffff;
+}
+
+.inActive_button {
+  background-color: transparent;
+  color: #ffffff;
+}
